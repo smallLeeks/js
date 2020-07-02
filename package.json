@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promiseA+.js",
+  "scripts": {
+    "test": "promises-aplus-tests promiseA+"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimengyijunduo/js.git"
+  },
+  "author": "chenghui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimengyijunduo/js/issues"
+  },
+  "homepage": "https://github.com/nimengyijunduo/js#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
